@@ -1,1 +1,1 @@
-0x03-shell_variables_expansions readme file
+0x03. Shell, init files, variables and expansions readme file 
